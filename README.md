@@ -1,9 +1,9 @@
 # ml5
 ml5 is useful for using tensorflow.js. A posenet example is shown.
 <pre>
-https://storage.googleapis.com/tfjs-models/demos/posenet/camera.html
+<a href='https://storage.googleapis.com/tfjs-models/demos/posenet/camera.html'> 17 positions</a>
 </pre>
 <pre>
-https://storage.googleapis.com/tfjs-models/demos/facemesh/index.html
+<a href='https://storage.googleapis.com/tfjs-models/demos/facemesh/index.html'> face</a>
 </pre>
 
