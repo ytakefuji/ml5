@@ -17,6 +17,12 @@ $ tar xvf rednose.tar
 <a href='https://storage.googleapis.com/tfjs-models/demos/facemesh/index.html'> face</a>
 </pre>
 
+# exercises for students
+
+1. Change my program for showing blue colored right eye instead of red nose.
+
+2. Show the location of the blue colored right eye on the screen.
+
 
 # python-posenet
 
