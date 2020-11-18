@@ -9,6 +9,13 @@ $ tar xvf rednose.tar
 # demo site
 <a href='https://gpu.dob.jp/nosePos/index.html'> rednose position</a>
 
+<pre>
+<a href='https://storage.googleapis.com/tfjs-models/demos/posenet/camera.html'> 17 positions</a>
+</pre>
+
+<pre>
+<a href='https://storage.googleapis.com/tfjs-models/demos/facemesh/index.html'> face</a>
+</pre>
 
 
 # python-posenet
@@ -27,10 +34,4 @@ $ python yolo.py dance.png
 
 $ python yolo.py dog.jpg
 
-<pre>
-<a href='https://storage.googleapis.com/tfjs-models/demos/posenet/camera.html'> 17 positions</a>
-</pre>
-<pre>
-<a href='https://storage.googleapis.com/tfjs-models/demos/facemesh/index.html'> face</a>
-</pre>
 
