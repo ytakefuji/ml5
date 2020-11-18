@@ -15,6 +15,9 @@ $ python simple_pose.py dance.png
 
 <img src='result.png' height=400 width=400>
 
+$ python yolo.py dance.png
+
+$ python yolo.py dog.jpg
 
 <pre>
 <a href='https://storage.googleapis.com/tfjs-models/demos/posenet/camera.html'> 17 positions</a>
