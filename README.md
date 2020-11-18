@@ -5,6 +5,7 @@ Download rednose.tar and expand it on desktop. click index.html using firefox, c
 
 $ tar xvf rednose.tar
 
+# demo site
 <a href='https://gpu.dob.jp/nosePos/index.html'> rednose position</a>
 
 </pre>
