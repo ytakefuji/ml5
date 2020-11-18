@@ -13,11 +13,11 @@ $ tar xvf rednose.tar
 
 $ python simple_pose.py dance.png 
 
-<img src='result.png' height=574 width=325>
+<img src='result.png' height=325 width=574>
 
 $ python simple_pose.py soccer.png
 
-<img src='soccer_result.png' height=560 width=460>
+<img src='soccer_result.png' height=460 width=560>
 
 $ python yolo.py dance.png
 
