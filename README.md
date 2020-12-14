@@ -41,6 +41,13 @@ $ python simple_pose.py soccer.png
 
 $ python yolo.py dance.png
 
+<img src='yolo2.png' height=400 width=800>
+
 $ python yolo.py dog.jpg
 
+<img src='yolo1.png' height=400 width=600>
+
+$ python yolo.py soccer.png
+
+<img src='yolo3.png' heigh=400 width=600>
 
