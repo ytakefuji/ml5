@@ -9,7 +9,7 @@ $ tar xvf rednose.tar
 # demo site
 
 <pre>
-<a href='https://gpu.dob.jp/nosePos/index.html'> rednose position</a>
+<a href='https://gpu1.dob.jp/nosePos/index.html'> rednose position</a>
 </pre>
 
 <pre>
